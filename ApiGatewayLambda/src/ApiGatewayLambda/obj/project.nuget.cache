@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "BeXg7iHYnOI=",
+  "success": true,
+  "projectFilePath": "D:\\LJK\\src\\apigw-lambda\\ApiGatewayLambda\\src\\ApiGatewayLambda\\ApiGatewayLambda.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leonj\\.nuget\\packages\\amazon.lambda.apigatewayevents\\2.7.1\\amazon.lambda.apigatewayevents.2.7.1.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\amazon.lambda.core\\2.5.0\\amazon.lambda.core.2.5.0.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\amazon.lambda.runtimesupport\\1.12.0\\amazon.lambda.runtimesupport.1.12.0.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\amazon.lambda.serialization.systemtextjson\\2.4.4\\amazon.lambda.serialization.systemtextjson.2.4.4.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.13\\microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.13\\microsoft.net.illink.tasks.8.0.13.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\snapshotrestore.registry\\1.0.0\\snapshotrestore.registry.1.0.0.nupkg.sha512",
+    "C:\\Users\\leonj\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.13\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
